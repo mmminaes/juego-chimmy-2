@@ -1,0 +1,10 @@
+html, body {
+  margin: 100;
+  padding: 100;
+}
+canvas{
+
+  border: 2px solid black;
+  background-image: url(https://www.nacionrex.com/__export/1562776371752/sites/debate/img/2019/07/10/c743e50f-e0e4-46bc-a32c-e7c774fbc402_x1x_1_crop1562775509868.jpg_242310155.jpg);
+
+}
